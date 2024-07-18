@@ -46,7 +46,7 @@ This Google Apps Script transforms ClickUp tasks and subtasks from a Google Shee
 25. Time Spent Text
 26. Rolled Up Time
 27. Rolled Up Time Text
-28. Work Item Type
+28. Work Item Type -- This was an added column to allow us to "override" what the Work Item Type was going to be in ADO_Import sheet.
 
 ### ADO_Import Sheet Columns (Starting at A)
 
